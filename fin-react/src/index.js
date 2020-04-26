@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-console.log('hello,world sahahh cw');
-console.log('cccc');
+
 console.log('master')
 ReactDOM.render(
   <React.StrictMode>
